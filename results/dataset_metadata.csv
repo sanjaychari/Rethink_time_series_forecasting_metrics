@@ -1,0 +1,6 @@
+dataset,target_col,target_description,input_mode,n_total,n_train,n_val,n_test,freq,n_variables_available,train_end,val_end,test_start,test_end
+ETTh1,OT,OT,univariate target-only,14400,8640,2880,2880,h,7,8640,11520,11520,14400
+ETTm1,OT,OT,univariate target-only,57600,34560,11520,11520,15min,7,34560,46080,46080,57600
+ETTm2,OT,OT,univariate target-only,57600,34560,11520,11520,15min,7,34560,46080,46080,57600
+Weather,OT,OT,univariate target-only,52603,36792,5271,10540,10min,21,36792,42063,42063,52603
+ESNet,ifHCOutOctets_to_bps,ifHCOutOctets converted to bits per second,univariate target-only,69082,51808,12953,4321,5min,14,51808,64761,64761,69082
